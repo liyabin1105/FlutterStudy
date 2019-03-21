@@ -43,6 +43,11 @@ Flutter_ZhiHu
 https://github.com/MeandNi/Flutter_ZhiHu
 
 
+## 书旗小说 Flutter版
+flutter_shuqi
+https://github.com/huanxsd/flutter_shuqi
+
+
 ## 开发者帮助 APP
 flutter-go
 https://github.com/alibaba/flutter-go
