@@ -7,6 +7,14 @@ https://github.com/flutter/plugins
 FlutterScreens
 https://github.com/samarthagarwal/FlutterScreens
 
+## flutter_weather(rxdart + fluro + sqflite + BLoC)
+flutter_weather 
+https://github.com/kukyxs/flutter_weather
+
+## flutter_shop
+flutter_shop 
+https://github.com/kukyxs/flutter_shop
+
 
 ## 开源Github客户端App 
 GSYGithubAppFlutter
