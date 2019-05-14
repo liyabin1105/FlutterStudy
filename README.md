@@ -62,8 +62,8 @@ https://github.com/alibaba/flutter-go
 
 
 ## WanAndroid客户端
-WanAndroid-Flutter
-https://github.com/canhuah/WanAndroid-Flutter
+flutter_wanandroid
+https://github.com/Sky24n/flutter_wanandroid
 
 
 ## 开发组件库中文社区
