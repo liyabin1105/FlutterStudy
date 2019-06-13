@@ -3,6 +3,14 @@
 ## Flutter Plugins
 https://github.com/flutter/plugins
 
+## Flutter Deer
+flutter_deer
+https://github.com/simplezhli/flutter_deer
+
+## FlutterTianYue
+FlutterTianYue 
+https://github.com/ZDfordream/FlutterTianYue
+
 ## 控件特效
 FlutterScreens
 https://github.com/samarthagarwal/FlutterScreens
